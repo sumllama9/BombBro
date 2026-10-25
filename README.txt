@@ -1,5 +1,8 @@
-
-
+This is a platformer game where you must reach the end to deliever a bomb
+Don't let your time run out or the bomb will detonate early!
+avoid obstacles
+Collect clocks for more time
+You can also double jump
 
 
 
